@@ -1,6 +1,6 @@
 # DriFiCrack
 _DriFiCrack is for only Android Rooted_
-THIS IS USE FOR LEGAL PURPOSES ONLY 
+
 DriFiCrack is a **brute-force** tool to crack Wi-Fi passwords on WPA2/WPA3 
 protected networks using brute force techniques. DriFiCrack is designed for educational purposes only, and should only be used on networks 
 that are authorized or have explicit permission to test. 
