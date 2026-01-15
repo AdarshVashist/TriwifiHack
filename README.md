@@ -6,7 +6,7 @@ protected networks using brute force techniques. DriFiCrack is designed for educ
 that are authorized or have explicit permission to test. 
 
 DriFiCrack must be run as **root**. This is required by the suite 
-of programs it uses. 
+of programs it uses.  
 
 ## Feature
 - Brute-force password cracking for Wi-Fi **( WPA2/WPA3 )**
