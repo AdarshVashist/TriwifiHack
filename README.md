@@ -41,3 +41,4 @@ Run the commands below:
 
 ## Licensing
 DriFiCrack is licensed under the MIT License. See the LICENSE file for more information.
+it is harmful to do such things pls don't do anything illegal 
