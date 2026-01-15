@@ -1,4 +1,4 @@
-# DriFiCrack
+9# DriFiCrack
 _DriFiCrack is for only Android Rooted_
 
 DriFiCrack is a **brute-force** tool to crack Wi-Fi passwords on WPA2/WPA3 
@@ -37,7 +37,7 @@ Run the commands below:
 
 `chmod +x drificrack`
 
-`./drificrack --help`
+`./drificrack --help`   
 
 ## Licensing
 DriFiCrack is licensed under the MIT License. See the LICENSE file for more information.
